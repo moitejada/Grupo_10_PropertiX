@@ -11,12 +11,17 @@ Nuestra audiencia objetivo serán personas interesadas en la compra, venta o alq
 Para ajustar nuestra oferta a nuestra audiencia objetivo, nos enfocaremos en brindar una interfaz de usuario intuitiva y fácil de usar, con filtros y criterios de búsqueda relevantes y precisos. También ofreceremos herramientas para programar visitas y contactar con agentes inmobiliarios de manera rápida y eficiente. Además, nos aseguraremos de que la información de las propiedades sea clara y detallada, con fotos y videos de alta calidad para ayudar a los usuarios a tomar decisiones informadas.
 
 <h2>Referentes del mercado:</h2>
-Zonaprop: Es una plataforma en línea para la compra, venta y alquiler de propiedades en Argentina. Ofrece una amplia variedad de propiedades, desde casas hasta apartamentos y propiedades comerciales. La estética es moderna y limpia, con una interfaz fácil de usar y herramientas útiles para los usuarios.
 
-MercadoLibre Inmuebles: Es una plataforma en línea de MercadoLibre, enfocada en la compra, venta y alquiler de propiedades en Argentina. Ofrece una amplia variedad de propiedades, desde casas hasta apartamentos y propiedades comerciales. La estética es moderna y atractiva, con una interfaz fácil de usar y herramientas útiles para los usuarios.
+<b>Zonaprop:</b> Es una plataforma en línea para la compra, venta y alquiler de propiedades en Argentina. Ofrece una amplia variedad de propiedades, desde casas hasta apartamentos y propiedades comerciales. La estética es moderna y limpia, con una interfaz fácil de usar y herramientas útiles para los usuarios.
 
-Properati: Es una plataforma en línea para la compra, venta y alquiler de propiedades en Argentina. Ofrece una amplia variedad de propiedades, desde casas hasta apartamentos y propiedades comerciales. La estética es moderna y elegante, con una interfaz fácil de usar y herramientas útiles para los usuarios.
+<b>MercadoLibre Inmuebles:</b> Es una plataforma en línea de MercadoLibre, enfocada en la compra, venta y alquiler de propiedades en Argentina. Ofrece una amplia variedad de propiedades, desde casas hasta apartamentos y propiedades comerciales. La estética es moderna y atractiva, con una interfaz fácil de usar y herramientas útiles para los usuarios.
 
-Zillow: Es una plataforma en línea para la compra, venta y alquiler de propiedades, con un enfoque en el mercado inmobiliario de Estados Unidos. Ofrece una amplia variedad de herramientas y recursos para ayudar a los usuarios a encontrar su hogar ideal, incluyendo mapas interactivos, estimaciones de precios y una calculadora de hipotecas. La estética es moderna y limpia, con una interfaz fácil de usar.
+<b>Properati:</b> Es una plataforma en línea para la compra, venta y alquiler de propiedades en Argentina. Ofrece una amplia variedad de propiedades, desde casas hasta apartamentos y propiedades comerciales. La estética es moderna y elegante, con una interfaz fácil de usar y herramientas útiles para los usuarios.
 
-Idealista: Es una plataforma en línea para la compra, venta y alquiler de propiedades, con un enfoque en el mercado inmobiliario de España. Ofrece una amplia variedad de propiedades, desde casas hasta apartamentos y propiedades comerciales. La estética es moderna y limpia, con una interfaz fácil de usar y herramientas útiles para los usuarios.
+<b>Zillow:</b> Es una plataforma en línea para la compra, venta y alquiler de propiedades, con un enfoque en el mercado inmobiliario de Estados Unidos. Ofrece una amplia variedad de herramientas y recursos para ayudar a los usuarios a encontrar su hogar ideal, incluyendo mapas interactivos, estimaciones de precios y una calculadora de hipotecas. La estética es moderna y limpia, con una interfaz fácil de usar.
+
+<b>Idealista:</b> Es una plataforma en línea para la compra, venta y alquiler de propiedades, con un enfoque en el mercado inmobiliario de España. Ofrece una amplia variedad de propiedades, desde casas hasta apartamentos y propiedades comerciales. La estética es moderna y limpia, con una interfaz fácil de usar y herramientas útiles para los usuarios.
+
+<h3>Bocetos del sitio web:</h3> https://www.canva.com/design/DAFvagt1HjA/JDtrpGhajkA_4S-V6RcHvw/edit?utm_content=DAFvagt1HjA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+<h3>Tablero de trabajo:</h3> https://trello.com/invite/b/aOhKvsG6/ATTI086cb697762a187b1da1793c3fc396a89697703F/tpo-codo-a-codo
